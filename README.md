@@ -37,5 +37,5 @@ Il proposerait une cartographie et un agenda interactif et participatif des init
 - (idée du think tank) : Moderniser et rendre plus interactifs les dispositifs de suivi actuels de la loi, notamment en refondant les pages des"Dossiers législatifs" des sites parlementaires.
 
 podcasts 
-- Le numerique au secours de la democratie ?
+- Le numerique au secours de la democratie ? 
 - http://www.franceculture.fr/emissions/soft-power/le-numerique-au-secours-de-la-democratie
