@@ -36,6 +36,9 @@ Il proposerait une cartographie et un agenda interactif et participatif des init
 - (idée du think tank) : Mettre en place une plate-forme participative incluant à la fois des instances de proposition, de question-réponse aux politiques et de modération des idées présentées, et de suivi de la fabrique des lois.
 - (idée du think tank) : Moderniser et rendre plus interactifs les dispositifs de suivi actuels de la loi, notamment en refondant les pages des"Dossiers législatifs" des sites parlementaires.
 
-podcasts 
+##podcasts 
 - Le numerique au secours de la democratie ? 
 - http://www.franceculture.fr/emissions/soft-power/le-numerique-au-secours-de-la-democratie
+
+##blogposts
+- https://medium.com/@martelf/la-d%C3%A9mocratie-liquide-ou-comment-repenser-la-d%C3%A9mocratie-%C3%A0-l-%C3%A2ge-num%C3%A9rique-24f5826f70aa#.74ais0vg6
