@@ -13,6 +13,12 @@ What if we could add pragmatism in french politics ?
   - cle du succes : convaincre un elu que c est un moyen de reprendre la main sur les elections
 => Anais theviot : these sur CAIRN (on s'est attache aux outils mais pas a la sociologie des personnes qui les utilise) -> sortir de l'utopie que le numerique allait resoudre le probleme d'engagement democratique 
 
+La cle est de trouver un moyen d'engager les deputes eux-mêmes dans le projet -> bonne 
+si vous arrivez a trouver majorite autour de vous, je revois mon vote. 
+=> besoin de fluidifier le systeme en 
+outil contre les minorites -> remettre dans son contexte qu'une minorite reste une minorite. 
+bon moyen pour la gouvernance permettrait de 
+
 ## reports 
 - rapport du think tank renaissance numérique : Démocratie mise à jour => comment convertir les politiques au numérique ? http://www.renaissancenumerique.org/images/stories/Publications/lb_democratie_maj.pdf
 
