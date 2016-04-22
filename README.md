@@ -1,6 +1,18 @@
 # digital-democracy
 What if we could add pragmatism in french politics ? 
 
+## random ideas
+- connecter les citoyens avec leurs representants 
+  - acces facile et transparent aux informations concernant les elus (agendas, reserve parlementaire, budgets, equipes) => open data
+  - informer les citoyens sur les derniers votes realises a l'assemblee (classes) ainsi que sur les sujets a venir a l'assemblee 
+  - Offrir des moyens aux citoyens pour s'exprimer sur les projets de loi ou d'amendements qui vont etre debattus (systeme de vote et d'expression d'opinions)
+  - Offrir la possibilite a un citoyen de pinger directement un elu sur une question 
+  - 
+- concept de democratie liquide
+  - un elu represente les citoyens a hauteur des votes exprimes (nb de personnes ayant vote pour l elu)
+  - cle du succes : convaincre un elu que c est un moyen de reprendre la main sur les elections
+=> Anais theviot : these sur CAIRN (on s'est attache aux outils mais pas a la sociologie des personnes qui les utilise) -> sortir de l'utopie que le numerique allait resoudre le probleme d'engagement democratique 
+
 ## reports 
 - rapport du think tank renaissance numérique : Démocratie mise à jour => comment convertir les politiques au numérique ? http://www.renaissancenumerique.org/images/stories/Publications/lb_democratie_maj.pdf
 
@@ -11,3 +23,7 @@ What if we could add pragmatism in french politics ?
 Il proposerait une cartographie et un agenda interactif et participatif des initiatives citoyennes.
 - (idée du think tank) : Mettre en place une plate-forme participative incluant à la fois des instances de proposition, de question-réponse aux politiques et de modération des idées présentées, et de suivi de la fabrique des lois.
 - (idée du think tank) : Moderniser et rendre plus interactifs les dispositifs de suivi actuels de la loi, notamment en refondant les pages des"Dossiers législatifs" des sites parlementaires.
+
+podcasts 
+- Le numerique au secours de la democratie ?
+- http://www.franceculture.fr/emissions/soft-power/le-numerique-au-secours-de-la-democratie
