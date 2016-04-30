@@ -24,6 +24,8 @@ ca peut egalement etre un outil permettant de remettre dans son contexte qu'une 
 
 => Anais theviot : these sur CAIRN (on s'est attache aux outils mais pas a la sociologie des personnes qui les utilise) -> sortir de l'utopie que le numerique allait resoudre le probleme d'engagement democratique 
 
+- blockchain voting 
+https://followmyvote.com/blockchain-voting-the-end-to-end-process/
 
 ## reports 
 - rapport du think tank renaissance numérique : Démocratie mise à jour => comment convertir les politiques au numérique ? http://www.renaissancenumerique.org/images/stories/Publications/lb_democratie_maj.pdf
