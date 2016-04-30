@@ -42,3 +42,8 @@ Il proposerait une cartographie et un agenda interactif et participatif des init
 
 ##blogposts
 - https://medium.com/@martelf/la-d%C3%A9mocratie-liquide-ou-comment-repenser-la-d%C3%A9mocratie-%C3%A0-l-%C3%A2ge-num%C3%A9rique-24f5826f70aa#.74ais0vg6
+- 
+##article s
+- E-vote et blockchain : https://www.maddyness.com/technologie/2016/04/14/blockchain-et-vote-en-ligne/
+=> Initiative americaine : https://followmyvote.com/ qui organise des elections paralleles aux elections presidentielles
+
