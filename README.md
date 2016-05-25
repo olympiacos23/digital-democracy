@@ -48,4 +48,6 @@ Il proposerait une cartographie et un agenda interactif et participatif des init
 ##article s
 - E-vote et blockchain : https://www.maddyness.com/technologie/2016/04/14/blockchain-et-vote-en-ligne/
 => Initiative americaine : https://followmyvote.com/ qui organise des elections paralleles aux elections presidentielles
+- democratie numerique a Taiwan : http://www.lemonde.fr/idees/article/2016/05/25/une-experience-pionniere-de-democratie-numerique-a-taiwan_4926104_3232.html
+=> https://pol.is/home 
 
