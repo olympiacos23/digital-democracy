@@ -51,3 +51,6 @@ Il proposerait une cartographie et un agenda interactif et participatif des init
 - democratie numerique a Taiwan : http://www.lemonde.fr/idees/article/2016/05/25/une-experience-pionniere-de-democratie-numerique-a-taiwan_4926104_3232.html
 => https://pol.is/home 
 
+DemocracyOS : http://democracy.earth/ 
+https://github.com/DemocracyEarth
+
